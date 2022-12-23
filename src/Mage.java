@@ -17,7 +17,7 @@ public class Mage {
                 + damage + ", "
                 + type;
     }
-
+//commit
     // fire -> ice -> earth -> fire
     public String fight(Mage mag2) {
         //type
